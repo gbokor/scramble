@@ -1,3 +1,2 @@
 #!/bin/bash
-java -jar Scramble.jar
-
+java -jar scramble.jar
